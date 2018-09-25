@@ -1,0 +1,17 @@
+.matrix {
+    width: 400px;
+    height: 800px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    top: 50px;
+}
+
+.btn {
+    margin: 30px;
+    width: 100px;
+}
+
+.table {
+    width: 300px;
+}
